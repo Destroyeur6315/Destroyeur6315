@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
 <h3 align="center">A computer science student</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/vecteurs-premium/cours-programmation-ligne-illustration-vectorielle-concept-plat-ingenieur-informaticien-personnage-dessin-anime-2d-programmeur-masculin-pour-conception-sites-web-formation-professionnelle-par-idee-creative-internet_151150-5799.jpg?w=1380">
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/vecteurs-premium/cours-programmation-ligne-illustration-vectorielle-concept-plat-ingenieur-informaticien-personnage-dessin-anime-2d-programmeur-masculin-pour-conception-sites-web-formation-professionnelle-par-idee-creative-internet_151150-5799.jpg?w=1380">
 
 - 📫 **romain.fillot630@gmail.com**
 
