@@ -22,8 +22,7 @@ I'm Romain FIllot, a computer science student at the university UCA in Aubière 
 - 🏅 I love bodybuilding
 
 
-
-
+For me, No pain No gain 📈
 
 
 
