@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Romain Fillot from Clermont. <br><br>- 🔭 I’m a Master’s student in Computer Science on a work-study program<br>- 📚 I’m working as an analyst developer at Movianto<br>- ⚡ In my free time, I love going to the gym and developing personal tech projects. </p>
+<p align="left">I'm Romain Fillot from Clermont-Ferrand. <br><br>- 🔭 I’m a Master’s student in Computer Science on a work-study program<br>- 📚 I’m working as an analyst developer at Movianto<br>- ⚡ In my free time, I love going to the gym and developing personal tech projects. </p>
 
 ###
 
