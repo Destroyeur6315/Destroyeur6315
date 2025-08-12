@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/romain-fillot/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://github.com/Destroyeur6315/"><img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Romain Fillot from Clermont. <br><br>- 🔭 I’m a Master’s student in Computer Science on a work-study program<br>- 📚 I’m working as an analyst developer at Movianto<br>- ⚡ In my free time, I love going to the gym and developing personal tech projects. </p>
 
 ###
 
