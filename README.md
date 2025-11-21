@@ -26,7 +26,7 @@
   - 📚 I’m working as an analyst developer at Movianto<br>
   - ⚡ In my free time, I love going to the gym and developing personal tech projects<br>
   - 🖥️  See my portfolio at .... (in working...)<br>
-  - ✉️  You can contact me at romainfillot6315@gmail.com </p>
+  - ✉️  You can contact me at romain.fillot.pro@proton.me </p>
 
 ###
 
