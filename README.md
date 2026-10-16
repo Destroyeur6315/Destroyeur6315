@@ -23,11 +23,9 @@
 <p align="left">I'm Romain Fillot<br><br>
   - 🌍  I'm based in Clermont-Ferrand, France<br>
   - 🔭 I’m a Master’s student in Computer Science on a work-study program<br>
-  - 📚 I’m working as a Python Developer at Movianto<br>
-  - 🚀 I’m currently training in Big Data technologies such as Azure, Databricks, and modern data tools.<br>
+  - 📚 I’m working as a Python Developer at Akkodis<br>
   - ⚡ In my free time, I love going to the gym, reading, and riding my motorcycle.<br>
-  - 💼 I’m currently looking for a permanent position (CDI) starting from September 2026 as a Python Developer or Data Engineer.<br>
-  - 🖥️  See my portfolio at .... (in working...)<br>
+  - 💼 I’m currently looking for a new opportunity in Toulouse. Feel free to contact me.<br>
   - ✉️  You can contact me at romain.fillot.pro@proton.me </p>
 
 ###
