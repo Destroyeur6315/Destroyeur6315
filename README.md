@@ -26,7 +26,7 @@
   - 📚 I’m working as a Python Developer at Akkodis<br>
   - ⚡ In my free time, I love going to the gym, reading, and riding my motorcycle.<br>
   - 💼 I’m currently looking for a new opportunity in Toulouse. Feel free to contact me.<br>
-  - 🌐 Check out my portfolio: <a href="https://romain-fillot.com/">My Portfolio</a><br>
+  - 🌐 Check out my portfolio: <a href="https://romain-fillot.com/" target="_blank" rel="noopener noreferrer">My Portfolio</a><br>
   - ✉️  You can contact me at romain.fillot.pro@proton.me </p>
 
 ###
