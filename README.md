@@ -22,7 +22,6 @@
 
 <p align="left">I'm Romain Fillot<br><br>
   - 🌍  I'm based in Clermont-Ferrand, France<br>
-  - 🔭 I’m a Master’s student in Computer Science on a work-study program<br>
   - 📚 I’m working as a Python Developer at Akkodis<br>
   - ⚡ In my free time, I love going to the gym, reading, and riding my motorcycle.<br>
   - 💼 I’m currently looking for a new opportunity in Toulouse. Feel free to contact me.<br>
