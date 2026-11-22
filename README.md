@@ -27,3 +27,10 @@
   - 💼 I’m currently looking for a new opportunity in Toulouse. Feel free to contact me.<br>
   - 🌐 Check out my portfolio: <a href="https://romain-fillot.com/" target="_blank" rel="noopener noreferrer">My Portfolio</a><br>
   - ✉️  You can contact me at romain.fillot.pro@proton.me </p>
+
+###
+
+<h3 align="left">🚀 Ongoing Personal Projects</h3>
+
+- 📝 <a href="https://mytodolist.fun" target="_blank" rel="noopener noreferrer">MyToDoList</a> — A to-do list to simplify your daily life.
+- 🩺 <a href="https://vetcases.fr" target="_blank" rel="noopener noreferrer">VetCases</a> — A collaborative platform for organizing veterinary knowledge.
